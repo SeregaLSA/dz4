@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.block {
+    width: 680px;
+    margin-left: 10px;
+}
+
+h1, h2, h3 {
+    color: blue;
+    text-align: center;
+}
+b {
+    color: red;
+}
+i {
+    color: blue;
+}
+p {
+    font-size: 24px;
+    text-indent: 40px;
+    text-shadow: -1px -1px #bdbcbc;
+    line-height: 40px;
+}

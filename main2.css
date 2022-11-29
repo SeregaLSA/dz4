@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.block {
+    width: 680px;
+    margin-left: 50px;
+}
+h1, h2, p, ol, ul {
+    margin-top: 20px;
+}
+
+h2, p {
+    margin-left: -40px;
+}
+
+h1, ol {
+    color: red;
+}
+h2 {
+    color: green;
+}
+ol li b {
+    font-size: 18px;
+}
+ol li i {
+    color: blue;
+}
+p b {
+    color: red;
+    font-size: 24px;
+}
+p i {
+    color: blue;
+    font-weight: 600;
+}
+ul li {
+    color: rgb(204, 145, 123);
+    font-style: italic;
+}
+ul li b {
+    color: red;
+    font-size: 18px;
+}
